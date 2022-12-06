@@ -1,2 +1,2 @@
 # python-algorithm
-practicealgorithm by python
+practice algorithm by python
