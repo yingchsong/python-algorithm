@@ -1,5 +1,7 @@
 import random
 test_list=[0,1,2,4,5,2,5,88]
+
+# the times of the function calls itself is less than N(the size of a).
 def max(a,l,r):
     # a is a list
     # l is the start index of a
